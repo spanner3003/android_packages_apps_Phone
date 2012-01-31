@@ -117,7 +117,7 @@
                 android:layout_marginTop="1dip"
                 android:visibility="gone" >
 
-            <!-- Note there's no "dtmfDialerField" EditText here;
+            <!-- Note there's no "dtmfDialerField" EditText here ;
                  in the OTA UI there's no visible "digits" display
                  attached to the dialpad. -->
 
