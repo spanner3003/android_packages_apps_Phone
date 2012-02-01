@@ -474,7 +474,7 @@
 
         <activity android:label="Sip Settings"
                   android:name=".sip.SipSettings"
-                  android:theme="@android:style/Theme.Holo.DialogWhenLarge"
+                  android:theme="@android:style/Theme.Holo"
                   android:launchMode="singleTop"
                   android:configChanges="orientation|screenSize|keyboardHidden"
                   android:uiOptions="splitActionBarWhenNarrow">
@@ -484,7 +484,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".sip.SipEditor"
-                android:theme="@android:style/Theme.Holo.DialogWhenLarge"
+                android:theme="@android:style/Theme.Holo"
                 android:configChanges="orientation|screenSize|keyboardHidden"
                 android:uiOptions="splitActionBarWhenNarrow">
         </activity>
